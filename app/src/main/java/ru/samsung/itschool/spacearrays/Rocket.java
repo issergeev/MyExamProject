@@ -6,7 +6,7 @@ import android.graphics.Matrix;
 import android.graphics.Paint;
 
 public class Rocket extends Object implements Moveable, Drawable{
-    Bitmap pic;
+    private Bitmap pic;
 
     Rocket(Bitmap pic){
         this.x = (float)(Math.random()*500);
@@ -20,8 +20,8 @@ public class Rocket extends Object implements Moveable, Drawable{
         this.y += this.vy;
     }
 
-    Paint paint = new Paint();
-    Matrix matrix = new Matrix();
+    private Paint paint = new Paint();
+    private Matrix matrix = new Matrix();
     public void draw(Canvas canvas){
         matrix.setScale(0.2f, 0.2f);
         //Study mathematics, dear young programmer :)

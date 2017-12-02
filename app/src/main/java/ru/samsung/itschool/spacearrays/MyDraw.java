@@ -1,15 +1,12 @@
 package ru.samsung.itschool.spacearrays;
 
 import android.content.Context;
-import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
 import android.graphics.Canvas;
 import android.graphics.Color;
-import android.graphics.Matrix;
 import android.graphics.Paint;
 import android.util.AttributeSet;
 import android.view.View;
-import android.widget.Switch;
 
 import java.lang.*;
 import java.util.ArrayList;
@@ -23,8 +20,6 @@ public class MyDraw extends View {
 		makeSky();
 		arrayList.add(new Rocket(BitmapFactory.decodeResource(getResources(), R.drawable.rocket)));
 		arrayList.add(new Rocket(BitmapFactory.decodeResource(getResources(), R.drawable.rocket)));
-//		this.rocket = new Rocket(BitmapFactory.decodeResource(getResources(), R.drawable.rocket));
-//		this.rocket2 = new Rocket(BitmapFactory.decodeResource(getResources(), R.drawable.rocket));
 	}
 
 	Paint paint = new Paint();
@@ -43,12 +38,6 @@ public class MyDraw extends View {
 				((Moveable) object).move();
 			}
 		}
-
-//		rocket.draw(canvas);
-//		rocket2.draw(canvas);
-//		rocket.move();
-//		rocket2.move();
-		// Запрос на перерисовку экрана
 		invalidate();
 	}
 	

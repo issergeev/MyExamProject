@@ -1,4 +1,4 @@
-#Sat Dec 02 21:22:55 MSK 2017
-base.0=C\:\\Users\\IvanDesktop\\Desktop\\ExamProject\\SpaceArraysOOP-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_9
+#Sun Dec 03 01:04:29 MSK 2017
+base.0=C\:\\Users\\IvanDesktop\\Desktop\\ExamProject\\SpaceArraysOOP-master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\9
+path.0=classes.dex
 renamed.0=classes.dex
-file.0=C\:\\Users\\IvanDesktop\\Desktop\\ExamProject\\SpaceArraysOOP-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_9\\classes.dex

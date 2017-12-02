@@ -6,8 +6,8 @@ import android.graphics.Paint;
 
 public class Circle extends Object implements Moveable, Drawable {
 
-    float radius;
-    Paint paint = new Paint();
+    private float radius;
+    private Paint paint = new Paint();
 
     Circle(float x, float y, float radius){
         this.x = x;

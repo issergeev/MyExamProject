@@ -6,8 +6,8 @@ import android.graphics.Paint;
 
 public class Rectangle extends Object implements Moveable, Drawable {
 
-    float width, height;
-    Paint paint = new Paint();
+    private float width, height;
+    private Paint paint = new Paint();
 
     Rectangle(float x, float y, float width, float height){
         this.x = x;

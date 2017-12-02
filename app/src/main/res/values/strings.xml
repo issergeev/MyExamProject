@@ -5,5 +5,9 @@
     <string name="hello_world">Hello world!</string>
     <string name="exit">Exit</string>
     <string name="start_game">Start game</string>
+    <string name="spawn_circle_star">Spawn CIRCLE (STAR)</string>
+    <string name="spawn_rectangle">Spawn RECTANGLE</string>
+    <string name="remove_all">Remove all</string>
+    <string name="isvisible_view">isVisible view</string>
 
 </resources>

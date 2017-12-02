@@ -24,7 +24,7 @@
             android:layout_width="0dp"
             android:layout_weight="1"
             android:layout_height="wrap_content"
-            android:text="Spawn CIRCLE (STAR)"
+            android:text="@string/spawn_circle_star"
             android:background="@drawable/custom_circlespawn_button"
             android:textSize="15sp"/>
         <Button
@@ -32,7 +32,7 @@
             android:layout_width="0dp"
             android:layout_weight="1"
             android:layout_height="wrap_content"
-            android:text="Spawn RECTANGLE"
+            android:text="@string/spawn_rectangle"
             android:background="@drawable/custom_rectanglespawn_button"/>
     </LinearLayout>
 
@@ -40,7 +40,7 @@
         android:id="@id/removeAllButton"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Remove all"
+        android:text="@string/remove_all"
         android:layout_above="@+id/drawViewSwitch"
         android:background="@drawable/custom_clearall_button"/>
     <Switch
@@ -48,7 +48,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:gravity="center"
-        android:text="isVisible view"
+        android:text="@string/isvisible_view"
         android:layout_alignParentBottom="true"
         android:background="@color/switchBackgroundColor"/>
 </RelativeLayout>

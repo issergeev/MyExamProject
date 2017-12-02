@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="whiteColor">#FFFFFF</color>
+    <color name="deleteAllButtonColor">#b37e24</color>
+    <color name="rectspawnButton">#3365ba</color>
+    <color name="circlespawnButton">#cabc3d</color>
+    <color name="menuButtonColor">#00ffffff</color>
+    <color name="switchBackgroundColor">#9fcfe7</color>
+</resources>

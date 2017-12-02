@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\IvanDesktop\.android\build-cache\b6f92e92d39eb32e5cc25bbbaa48a3f754d99245\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\IvanDesktop\Desktop\ExamProject\SpaceArraysOOP-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_4e7a3e249eff61e895e22d2c3f5e74c756987ddb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\IvanDesktop\.android\build-cache\91c99f0c2058eacb2f7868244427e9f1a2a9f2fc\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\IvanDesktop\Desktop\ExamProject\SpaceArraysOOP-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5936fd1c5a11c821ab11dd0dd3c4a0035462a0b7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="I:\SDK\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\IvanDesktop\Desktop\ExamProject\SpaceArraysOOP-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_4353b3accf1353481bec1da66037cf92219d1fbe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\IvanDesktop\.android\build-cache\aabf070610f37b50815551258996cd88e3d0f633\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\IvanDesktop\Desktop\ExamProject\SpaceArraysOOP-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2b268b4e0cda44f932cd36fe1184d15796875fd6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\IvanDesktop\.android\build-cache\5777dc2b10ae6db5533753e37d60eeab1b3bb0d6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\IvanDesktop\Desktop\ExamProject\SpaceArraysOOP-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fc72f5358f60df79bddbc6814eb9892453a908e3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\IvanDesktop\.android\build-cache\b6f92e92d39eb32e5cc25bbbaa48a3f754d99245\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\IvanDesktop\Desktop\ExamProject\SpaceArraysOOP-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5795cdeb286bccbe35312054bac6ea0721c10381\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\IvanDesktop\.android\build-cache\aabf070610f37b50815551258996cd88e3d0f633\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\IvanDesktop\Desktop\ExamProject\SpaceArraysOOP-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_1e367fc64925e7b45eafbbe5ae73433ba353f7f5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\IvanDesktop\.android\build-cache\7494980c32df358b9ea8feb7ff72345c81e1f004\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\IvanDesktop\Desktop\ExamProject\SpaceArraysOOP-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9663094cf649492e32cf66a4902cac6152ecf25a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\IvanDesktop\.android\build-cache\d43c89f1844c85db78e51b41b812382ba49dddbd\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\IvanDesktop\Desktop\ExamProject\SpaceArraysOOP-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6c00e9312bc55c81071c0574985238cf6c7a992b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\IvanDesktop\Desktop\ExamProject\SpaceArraysOOP-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2d0849265dde57c9069eefdad44b8dcc3270ecb6">
+        <dex dex="C:\Users\IvanDesktop\Desktop\ExamProject\SpaceArraysOOP-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_9a31d38bf1a76dc9e955eb9c4d9339b64812ce35\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\IvanDesktop\.android\build-cache\c94896480696d867effe0f143ba5993bfbd8c456\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\IvanDesktop\Desktop\ExamProject\SpaceArraysOOP-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_c0b7fe65e976e43337cfc8b4a76506533868cc40\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\IvanDesktop\.android\build-cache\c8b4cf9faba75ede69ca33ae1de2300afb4966ce\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\IvanDesktop\Desktop\ExamProject\SpaceArraysOOP-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3f75b1b75fd3ee9d7cbfffdd842e22767f5ce0e0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\IvanDesktop\.android\build-cache\c94896480696d867effe0f143ba5993bfbd8c456\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\IvanDesktop\Desktop\ExamProject\SpaceArraysOOP-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9465f6e591911fee058e5287df90469e55e887dd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\IvanDesktop\Desktop\ExamProject\SpaceArraysOOP-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\IvanDesktop\Desktop\ExamProject\SpaceArraysOOP-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_eef42d48f5e6acbd6d2dddc9ec7917e663a36979\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\IvanDesktop\.android\build-cache\5777dc2b10ae6db5533753e37d60eeab1b3bb0d6\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\IvanDesktop\Desktop\ExamProject\SpaceArraysOOP-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_761f6fdeda9d1383b1688ab1ef803097908c8c6b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\IvanDesktop\.android\build-cache\e161ee7fe64eee8dd804b10dd0365aa2d3690181\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\IvanDesktop\Desktop\ExamProject\SpaceArraysOOP-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5d1fdc26ee7c3d660ff82470f26f74c14162099f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\IvanDesktop\.android\build-cache\c8b4cf9faba75ede69ca33ae1de2300afb4966ce\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\IvanDesktop\Desktop\ExamProject\SpaceArraysOOP-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_16a73efcfd8197059785003324ad70f4387e94ef\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SpaceArrays</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="exit">Exit</string>
+    <string name="start_game">Start game</string>
+
+</resources>

@@ -1,0 +1,4 @@
+#Sat Dec 02 21:22:55 MSK 2017
+base.0=C\:\\Users\\IvanDesktop\\Desktop\\ExamProject\\SpaceArraysOOP-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_3
+renamed.0=classes.dex
+file.0=C\:\\Users\\IvanDesktop\\Desktop\\ExamProject\\SpaceArraysOOP-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_3\\classes.dex

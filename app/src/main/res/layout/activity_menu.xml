@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="ru.samsung.itschool.spacearrays.MENU_Activity"
+    android:background="@drawable/background">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="15dp">
+
+    <Button
+        android:id="@+id/startGameButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20dp"
+        android:text="@string/start_game"
+        android:textColor="@color/whiteColor"
+        android:textSize="20sp"
+        android:layout_centerInParent="true"
+        android:background="@color/menuButtonColor"/>
+    <Button
+        android:id="@+id/exitGameButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/exit"
+        android:textColor="@color/whiteColor"
+        android:textSize="20sp"
+        android:layout_below="@id/startGameButton"
+        android:background="@color/menuButtonColor"/>
+    </RelativeLayout>
+</RelativeLayout>

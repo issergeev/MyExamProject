@@ -1,0 +1,54 @@
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="${relativePackage}.${activityClass}" >
+
+    <ru.samsung.itschool.spacearrays.MyDraw
+        android:id="@+id/myDraw1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/linearLayout"
+        android:visibility="visible"/>
+
+    <LinearLayout
+        android:id="@id/linearLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_above="@+id/removeAllButton">
+
+        <Button
+            android:id="@+id/spawnButton"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:text="Spawn CIRCLE (STAR)"
+            android:background="@drawable/custom_circlespawn_button"
+            android:textSize="15sp"/>
+        <Button
+            android:id="@+id/spawnButton2"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:text="Spawn RECTANGLE"
+            android:background="@drawable/custom_rectanglespawn_button"/>
+    </LinearLayout>
+
+    <Button
+        android:id="@id/removeAllButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Remove all"
+        android:layout_above="@+id/drawViewSwitch"
+        android:background="@drawable/custom_clearall_button"/>
+    <Switch
+        android:id="@id/drawViewSwitch"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="isVisible view"
+        android:layout_alignParentBottom="true"
+        android:background="@color/switchBackgroundColor"/>
+</RelativeLayout>
